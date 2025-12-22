@@ -22,7 +22,17 @@ A collection of data analysis projects demonstrating end-to-end analytics, busin
 
 ## 📂 Projects
 
-### 🔹 1. Sales Dashboard (Excel / Power BI)
+
+
+📊 🔹 1.Customer Shopping Behavior Analysis
+📌 **Objective:**This project analyzes customer shopping behavior to uncover meaningful business insights using **Python, SQL, and Power BI**.  
+✔ KPIs: Revenue,Average order value ,Average review rating
+📊 Dashboard with slicers and charts  
+
+🔗 [View Project](https://github.com/AravindT55/Customer_shopping_Behaviour-Python-sql-power-Bi-)
+
+
+### 🔹 2. Sales Dashboard (Excel / Power BI)
 📌 **Objective:** Analyze sales performance and identify growth opportunities  
 ✔ KPIs: Revenue, Profit, Monthly Trends  
 📊 Dashboard with slicers and charts  
@@ -31,16 +41,16 @@ A collection of data analysis projects demonstrating end-to-end analytics, busin
 
 ---
 
-### 🔹 2. Mini project for learning and practicing (SQL)
+### 🔹 3. Mini project for learning and practicing (SQL)
 📌 **Objective:** Analyze customer behavior and order trends  
 ✔ SQL queries for insights  
 ✔ Practicing with random datasets 
 
-🔗 [View Project]([https://github.com/your-username/ecommerce-analysis](https://github.com/AravindT55/Mini-project-sql-sales-analysis))
+🔗 [View Project](https://github.com/AravindT55/Mini-project-sql-sales-analysis)
 
 ---
 
-### 🔹 3. Business KPI Analysis
+### 🔹 4. Business KPI Analysis
 📌 **Objective:** Track performance metrics for decision-making  
 ✔ KPI calculations  
 ✔ Power BI visuals  
