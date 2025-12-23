@@ -24,9 +24,10 @@ A collection of data analysis projects demonstrating end-to-end analytics, busin
 ## 📂 Projects
 
 ### 🔹 1. Customer Shopping Behavior Analysis
-📌 **Objective:** This project analyzes customer shopping behavior to uncover meaningful business insights using **Python, SQL, and Power BI**. 
+📌 **Objective:** This project analyzes customer shopping behavior to uncover meaningful business insights using **Python, SQL, and Power BI**.
 ✔ KPIs: Revenue,Average order value ,Average review rating
 📊 Dashboard with business KPI's slicers and charts 
+![Dashboard](Customer sales Analysis (SS).png)
 
 🔗 [View Project](https://github.com/AravindT55/Customer_shopping_Behaviour-Python-sql-power-Bi-)
 
