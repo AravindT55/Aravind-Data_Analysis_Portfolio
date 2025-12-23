@@ -17,20 +17,20 @@ A collection of data analysis projects demonstrating end-to-end analytics, busin
 - **Visualization:** Power BI, Excel Dashboards
 - **Databases:** MySQL
 - **Tools:** GitHub, VS Code, Jupyter Notebook
+- **Data story telling** 
 
 ---
 
 ## 📂 Projects
 
-
-
-###🔹 1. Customer Shopping Behavior Analysis
-📌 **Objective:** This project analyzes customer shopping behavior to uncover meaningful business insights using **Python, SQL, and Power BI**.
+### 🔹 1. Customer Shopping Behavior Analysis
+📌 **Objective:** This project analyzes customer shopping behavior to uncover meaningful business insights using **Python, SQL, and Power BI**. 
 ✔ KPIs: Revenue,Average order value ,Average review rating
-📊 Dashboard with business KPI's slicers and charts
+📊 Dashboard with business KPI's slicers and charts 
 
 🔗 [View Project](https://github.com/AravindT55/Customer_shopping_Behaviour-Python-sql-power-Bi-)
 
+---
 
 ### 🔹 2. Sales Dashboard (Excel / Power BI)
 📌 **Objective:** Analyze sales performance and identify growth opportunities  
