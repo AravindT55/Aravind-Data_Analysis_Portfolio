@@ -34,7 +34,17 @@ A collection of data analysis projects demonstrating end-to-end analytics, busin
 
 ---
 
-### 🔹 2. Sales Dashboard (Excel / Power BI)
+### 🔹 2. walmart sales Analysis 
+📌 **Objective:** A complete end-to-end SQL data analysis project using MySQL 8.x, focused on sales performance, customer behavior, product insights, and revenue trends.
+- Source: Walmart sales transactional dataset
+- Format: CSV
+- Records include invoices, branches, customers, products, ratings, tax, and revenue details
+
+🔗 [View Project](https://github.com/AravindT55/Walmart_sales_analysis-SQL-POWER-BI)
+
+---
+
+### 🔹 3. Sales Dashboard (Excel / Power BI)
 📌 **Objective:** Analyze sales performance and identify growth opportunities  
 ✔ KPIs: Revenue, Profit, Monthly Trends  
 📊 Dashboard with slicers and charts  
@@ -43,7 +53,7 @@ A collection of data analysis projects demonstrating end-to-end analytics, busin
 
 ---
 
-### 🔹 3. Mini project for learning and practicing (SQL)
+### 🔹 4. Mini project for learning and practicing (SQL)
 📌 **Objective:** Analyze customer behavior and order trends  
 ✔ SQL queries for insights  
 ✔ Practicing with random datasets 
@@ -52,7 +62,7 @@ A collection of data analysis projects demonstrating end-to-end analytics, busin
 
 ---
 
-### 🔹 4. Business KPI Analysis
+### 🔹 5. Business KPI Analysis
 📌 **Objective:** Track performance metrics for decision-making  
 ✔ KPI calculations  
 ✔ Power BI visuals  
